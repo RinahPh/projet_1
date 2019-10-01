@@ -1,4 +1,6 @@
+# 2.14. Compte à rebours
 puts "Entrez un nombre"
+print "> "
 n = gets.to_i
 
 puts "Compte à rebours"
