@@ -1,4 +1,6 @@
+#2.16. Virer les années
 puts "Entrez votre age"
+print "> "
 age = gets.to_i
 
 puts "Afficher tous les âges"
