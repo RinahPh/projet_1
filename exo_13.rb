@@ -1,4 +1,4 @@
-puts "Entrez un année"
+puts "Entrez une année"
 annee = gets.to_i
 
 puts "Compte les années"
