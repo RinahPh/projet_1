@@ -1,4 +1,6 @@
+# 2.17. Annoncer l'âge, option BG
 puts "Entrez votre age"
+print "> "
 age = gets.to_i
 
 puts "Annoncer l'âge"
